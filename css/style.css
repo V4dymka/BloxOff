@@ -11,7 +11,7 @@ body { margin: 0; overflow: hidden; background: #000; }
 }
 .joystick {
   position: absolute; left: 20px; bottom: 20px;
-  width: 140px; height: 140pax; pointer-events: auto;
+  width: 140px; height: 140px; pointer-events: auto;
 }
 .joy-base {
   position: absolute; width: 140px; height: 140px; border-radius: 50%;
